@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KÜTÜPHANE", "KÜTÜPHANE\KÜTÜPHANE.csproj", "{ED5797EF-E217-49D0-BB47-C71F0353F81F}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "My Library Setup", "My Library Setup\My Library Setup.vdproj", "{41DA9F4F-8DA9-4B19-A645-30F374B9E6EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED5797EF-E217-49D0-BB47-C71F0353F81F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED5797EF-E217-49D0-BB47-C71F0353F81F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED5797EF-E217-49D0-BB47-C71F0353F81F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED5797EF-E217-49D0-BB47-C71F0353F81F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41DA9F4F-8DA9-4B19-A645-30F374B9E6EE}.Debug|Any CPU.ActiveCfg = Debug
+		{41DA9F4F-8DA9-4B19-A645-30F374B9E6EE}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FE7CEB02-ED73-4298-8FAE-470080CDC88C}
+	EndGlobalSection
+EndGlobal
